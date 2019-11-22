@@ -1,0 +1,9 @@
+namespace: "takahashi"
+name: "calc"
+version: "1.0.0"
+readme: "README.md"
+authors:
+    - "Masashi Takahashi (https://github.com/m-takahashi-if)"
+license:
+    - "Apache-2.0"
+repository: "https://github.com/exastro-suite/ansible-collections-demo"

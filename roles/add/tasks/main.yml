@@ -1,0 +1,3 @@
+- name: add
+  takahashi.calc.command:
+    command: "{{ value}}"

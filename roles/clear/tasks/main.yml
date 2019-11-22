@@ -1,0 +1,3 @@
+- name: clear
+  takahashi.calc.command:
+    command: clear
