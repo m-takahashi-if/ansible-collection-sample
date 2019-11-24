@@ -1,3 +1,3 @@
-- name: add
-  takahashi.calc.command:
-    command: "{{ value}}"
+- name: add "{{ value }}" (role version)
+  ac_sample.calc.publish_request:
+    value: "{{ value }}"

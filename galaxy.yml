@@ -1,4 +1,4 @@
-namespace: "takahashi"
+namespace: "ac_sample"
 name: "calc"
 version: "1.0.0"
 readme: "README.md"
