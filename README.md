@@ -15,15 +15,15 @@ See https://github.com/m-takahashi-if/ansible-collection-demo .
 
 ## Using sample module
 
-### add 10
+### Add 10
 
-    - name: clear and add 10
+    - name: add 10
       ac_sample.calc.publish_request:
         value: 10
 
 ### Clear result
 
-    - name: clear and add 10
+    - name: clear
       ac_sample.calc.publish_request:
         command: clear
 
